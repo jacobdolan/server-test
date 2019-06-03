@@ -1,0 +1,4 @@
+webserver details
+ip: 35.174.117.218
+username: ec2-user
+
